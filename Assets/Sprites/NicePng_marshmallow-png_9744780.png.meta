@@ -1,0 +1,2982 @@
+fileFormatVersion: 2
+guid: 3f3a342274ceb234da46063c19d8cea7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7224236327054070845
+    second: NicePng_marshmallow-png_9744780_0
+  - first:
+      213: 2077184626131208110
+    second: NicePng_marshmallow-png_9744780_1
+  - first:
+      213: 8613825232887840381
+    second: NicePng_marshmallow-png_9744780_2
+  - first:
+      213: 106743952293420805
+    second: NicePng_marshmallow-png_9744780_3
+  - first:
+      213: -4650176147490024598
+    second: NicePng_marshmallow-png_9744780_4
+  - first:
+      213: 2767176575243260525
+    second: NicePng_marshmallow-png_9744780_5
+  - first:
+      213: 5344283423224102421
+    second: NicePng_marshmallow-png_9744780_6
+  - first:
+      213: 7207987811159856445
+    second: NicePng_marshmallow-png_9744780_7
+  - first:
+      213: -2197831784260714568
+    second: NicePng_marshmallow-png_9744780_8
+  - first:
+      213: -3055058731226033441
+    second: NicePng_marshmallow-png_9744780_9
+  - first:
+      213: 8002741198681256773
+    second: NicePng_marshmallow-png_9744780_10
+  - first:
+      213: 2781538388652214022
+    second: NicePng_marshmallow-png_9744780_11
+  - first:
+      213: -7400960316803207186
+    second: NicePng_marshmallow-png_9744780_12
+  - first:
+      213: 3929885342574628034
+    second: NicePng_marshmallow-png_9744780_13
+  - first:
+      213: -5667339350881959107
+    second: NicePng_marshmallow-png_9744780_14
+  - first:
+      213: 1465296833360164377
+    second: NicePng_marshmallow-png_9744780_15
+  - first:
+      213: 5008395477981147387
+    second: NicePng_marshmallow-png_9744780_16
+  - first:
+      213: -5721962231506690314
+    second: NicePng_marshmallow-png_9744780_17
+  - first:
+      213: -3985586163887904756
+    second: NicePng_marshmallow-png_9744780_18
+  - first:
+      213: -2343704736962796227
+    second: NicePng_marshmallow-png_9744780_19
+  - first:
+      213: -1048531682987093994
+    second: NicePng_marshmallow-png_9744780_20
+  - first:
+      213: -6339113423713057608
+    second: NicePng_marshmallow-png_9744780_21
+  - first:
+      213: -3465900913294434813
+    second: NicePng_marshmallow-png_9744780_22
+  - first:
+      213: 7527198686817318900
+    second: NicePng_marshmallow-png_9744780_23
+  - first:
+      213: -1463500584582657604
+    second: NicePng_marshmallow-png_9744780_24
+  - first:
+      213: 1985547362952602605
+    second: NicePng_marshmallow-png_9744780_25
+  - first:
+      213: 3688969771625581795
+    second: NicePng_marshmallow-png_9744780_26
+  - first:
+      213: 8655076208962162720
+    second: NicePng_marshmallow-png_9744780_27
+  - first:
+      213: -7453520738022851192
+    second: NicePng_marshmallow-png_9744780_28
+  - first:
+      213: -6035533207425120346
+    second: NicePng_marshmallow-png_9744780_29
+  - first:
+      213: 6599786406980144576
+    second: NicePng_marshmallow-png_9744780_30
+  - first:
+      213: 4154314722500869836
+    second: NicePng_marshmallow-png_9744780_31
+  - first:
+      213: -721540962340169480
+    second: NicePng_marshmallow-png_9744780_32
+  - first:
+      213: 6443580421080801122
+    second: NicePng_marshmallow-png_9744780_33
+  - first:
+      213: 5448734020546976189
+    second: NicePng_marshmallow-png_9744780_34
+  - first:
+      213: -5335466162005106829
+    second: NicePng_marshmallow-png_9744780_35
+  - first:
+      213: 3911083023505817851
+    second: NicePng_marshmallow-png_9744780_36
+  - first:
+      213: -2210801354518147585
+    second: NicePng_marshmallow-png_9744780_37
+  - first:
+      213: -4503535828276047414
+    second: NicePng_marshmallow-png_9744780_38
+  - first:
+      213: -2860971610187763563
+    second: NicePng_marshmallow-png_9744780_39
+  - first:
+      213: 7200884085633272300
+    second: NicePng_marshmallow-png_9744780_40
+  - first:
+      213: 6859666190988423045
+    second: NicePng_marshmallow-png_9744780_41
+  - first:
+      213: 3520469122681457033
+    second: NicePng_marshmallow-png_9744780_42
+  - first:
+      213: -4185182455427313819
+    second: NicePng_marshmallow-png_9744780_43
+  - first:
+      213: 3538320700143427752
+    second: NicePng_marshmallow-png_9744780_44
+  - first:
+      213: 5855380260571600560
+    second: NicePng_marshmallow-png_9744780_45
+  - first:
+      213: -256871307045812797
+    second: NicePng_marshmallow-png_9744780_46
+  - first:
+      213: 3061139487242776159
+    second: NicePng_marshmallow-png_9744780_47
+  - first:
+      213: -55592261016213687
+    second: NicePng_marshmallow-png_9744780_48
+  - first:
+      213: 6997095394120976815
+    second: NicePng_marshmallow-png_9744780_49
+  - first:
+      213: 8030970380044963926
+    second: NicePng_marshmallow-png_9744780_50
+  - first:
+      213: 3368383377124916305
+    second: NicePng_marshmallow-png_9744780_51
+  - first:
+      213: -6991410720687778594
+    second: NicePng_marshmallow-png_9744780_52
+  - first:
+      213: 3250490853021045385
+    second: NicePng_marshmallow-png_9744780_53
+  - first:
+      213: -2965287382281111305
+    second: NicePng_marshmallow-png_9744780_54
+  - first:
+      213: 148879454984783941
+    second: NicePng_marshmallow-png_9744780_55
+  - first:
+      213: 5100490105976345880
+    second: NicePng_marshmallow-png_9744780_56
+  - first:
+      213: 3135180375423120305
+    second: NicePng_marshmallow-png_9744780_57
+  - first:
+      213: -6219388226005958180
+    second: NicePng_marshmallow-png_9744780_58
+  - first:
+      213: 6197088717990663397
+    second: NicePng_marshmallow-png_9744780_59
+  - first:
+      213: 3192500393830380320
+    second: NicePng_marshmallow-png_9744780_60
+  - first:
+      213: -1057446583494412569
+    second: NicePng_marshmallow-png_9744780_61
+  - first:
+      213: 1532322635926120401
+    second: NicePng_marshmallow-png_9744780_62
+  - first:
+      213: 7208550720422733010
+    second: NicePng_marshmallow-png_9744780_63
+  - first:
+      213: -7430447726275742922
+    second: NicePng_marshmallow-png_9744780_64
+  - first:
+      213: -7906202919376711665
+    second: NicePng_marshmallow-png_9744780_65
+  - first:
+      213: 3064708136440641703
+    second: NicePng_marshmallow-png_9744780_66
+  - first:
+      213: -8825224274392683778
+    second: NicePng_marshmallow-png_9744780_67
+  - first:
+      213: -2380542459435585606
+    second: NicePng_marshmallow-png_9744780_68
+  - first:
+      213: -5691860651147447267
+    second: NicePng_marshmallow-png_9744780_69
+  - first:
+      213: -7477785161625617217
+    second: NicePng_marshmallow-png_9744780_70
+  - first:
+      213: -7758640407193683383
+    second: NicePng_marshmallow-png_9744780_71
+  - first:
+      213: 1869930046671946973
+    second: NicePng_marshmallow-png_9744780_72
+  - first:
+      213: -2076810237458024902
+    second: NicePng_marshmallow-png_9744780_73
+  - first:
+      213: -6190722753551419994
+    second: NicePng_marshmallow-png_9744780_74
+  - first:
+      213: 355045943066684637
+    second: NicePng_marshmallow-png_9744780_75
+  - first:
+      213: 6168099331935872045
+    second: NicePng_marshmallow-png_9744780_76
+  - first:
+      213: 521160474175324394
+    second: NicePng_marshmallow-png_9744780_77
+  - first:
+      213: -6848568581199522593
+    second: NicePng_marshmallow-png_9744780_78
+  - first:
+      213: 1744190713660469141
+    second: NicePng_marshmallow-png_9744780_79
+  - first:
+      213: -1119045447353335478
+    second: NicePng_marshmallow-png_9744780_80
+  - first:
+      213: 7154407778570110997
+    second: NicePng_marshmallow-png_9744780_81
+  - first:
+      213: -5880630041988656740
+    second: NicePng_marshmallow-png_9744780_82
+  - first:
+      213: 3968063343817675350
+    second: NicePng_marshmallow-png_9744780_83
+  - first:
+      213: -3340131501574595302
+    second: NicePng_marshmallow-png_9744780_84
+  - first:
+      213: -1331480159274272942
+    second: NicePng_marshmallow-png_9744780_85
+  - first:
+      213: 3189548693370141272
+    second: NicePng_marshmallow-png_9744780_86
+  - first:
+      213: -1666993272499933563
+    second: NicePng_marshmallow-png_9744780_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb2870165b5ebb90800000000000000
+      internalID: -7224236327054070845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1992
+        width: 59
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7047d7964a3dc10800000000000000
+      internalID: 2077184626131208110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1987
+        width: 58
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e739b49647a8770800000000000000
+      internalID: 8613825232887840381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1992
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fde5e1f0b3b7100800000000000000
+      internalID: 106743952293420805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1987
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63dcd97e61477fb0800000000000000
+      internalID: -4650176147490024598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1992
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62182e1f6cf66620800000000000000
+      internalID: 2767176575243260525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1987
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ef74c4575ba2a40800000000000000
+      internalID: 5344283423224102421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_7
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1992
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35578589bae70460800000000000000
+      internalID: 7207987811159856445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_8
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1987
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfb31703abbf71e0800000000000000
+      internalID: -2197831784260714568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_9
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1992
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2115535404a95d0800000000000000
+      internalID: -3055058731226033441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_10
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1987
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543b7c848b27f0f60800000000000000
+      internalID: 8002741198681256773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_11
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1992
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6074ab06d620a9620800000000000000
+      internalID: 2781538388652214022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1987
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefae28cdc18a4990800000000000000
+      internalID: -7400960316803207186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_13
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1992
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cccc2cc5e1c98630800000000000000
+      internalID: 3929885342574628034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1987
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33861123e09951b0800000000000000
+      internalID: -5667339350881959107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_15
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1992
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916ffead4b7c55410800000000000000
+      internalID: 1465296833360164377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_16
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1987
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf03dbfc625618540800000000000000
+      internalID: 5008395477981147387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_17
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1992
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe97dcaaa18790b0800000000000000
+      internalID: -5721962231506690314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_18
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1987
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08efbf108a50b8c0800000000000000
+      internalID: -3985586163887904756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1992
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35aeee85fc797fd0800000000000000
+      internalID: -2343704736962796227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_20
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1987
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610dfcb5dfdd271f0800000000000000
+      internalID: -1048531682987093994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_21
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1992
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b44cac5de1f608a0800000000000000
+      internalID: -6339113423713057608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_22
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1987
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e12648b75a6efc0800000000000000
+      internalID: -3465900913294434813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_23
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1992
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f77889235bf57860800000000000000
+      internalID: 7527198686817318900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_24
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1987
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9cf57e8f990bbe0800000000000000
+      internalID: -1463500584582657604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_25
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1992
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3e0858ec41e8b10800000000000000
+      internalID: 1985547362952602605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_26
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1987
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec85e8567ad13330800000000000000
+      internalID: 3688969771625581795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_27
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1992
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020df1b94f10d1870800000000000000
+      internalID: 8655076208962162720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_28
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1987
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88df3241166cf8890800000000000000
+      internalID: -7453520738022851192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_29
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1992
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a70a55868a7d3ca0800000000000000
+      internalID: -6035533207425120346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_30
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1987
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdc08d15c6279b50800000000000000
+      internalID: 6599786406980144576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_31
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1992
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccef6d7ca3717a930800000000000000
+      internalID: 4154314722500869836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_32
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1987
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f812d051529cf5f0800000000000000
+      internalID: -721540962340169480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_33
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1992
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fde20e0423c6950800000000000000
+      internalID: 6443580421080801122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_34
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1987
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9d94a19bacd9b40800000000000000
+      internalID: 5448734020546976189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_35
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1992
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f919e4bcd94f5b0800000000000000
+      internalID: -5335466162005106829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_36
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1987
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0002fb945f64630800000000000000
+      internalID: 3911083023505817851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_37
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1992
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd4ef2a1e7a151e0800000000000000
+      internalID: -2210801354518147585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1987
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac19c52660a3081c0800000000000000
+      internalID: -4503535828276047414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_39
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1992
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590f7468a79cb48d0800000000000000
+      internalID: -2860971610187763563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_40
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1987
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce94fe88cedaee360800000000000000
+      internalID: 7200884085633272300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_41
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1992
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f2f9f7e0e623f50800000000000000
+      internalID: 6859666190988423045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_42
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1987
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989c82cc3083bd030800000000000000
+      internalID: 3520469122681457033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_43
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1992
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fce081bbe3be5c0800000000000000
+      internalID: -4185182455427313819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_44
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1987
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0e5711ee3aa1130800000000000000
+      internalID: 3538320700143427752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1892
+        width: 8
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b65438e25d724150800000000000000
+      internalID: 5855380260571600560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1887
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c54b8e38e86f6cf0800000000000000
+      internalID: -256871307045812797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_47
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1887
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ee601252a5b7a20800000000000000
+      internalID: 3061139487242776159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1882
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9472ed5122f7a3ff0800000000000000
+      internalID: -55592261016213687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1877
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa94a12503daa1160800000000000000
+      internalID: 6997095394120976815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_50
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1882
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6509340c20db37f60800000000000000
+      internalID: 8030970380044963926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_51
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1877
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c7cd4c5d6eebe20800000000000000
+      internalID: 3368383377124916305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1872
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed41c8addf489fe90800000000000000
+      internalID: -6991410720687778594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1867
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982d9ff75301c1d20800000000000000
+      internalID: 3250490853021045385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_54
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1872
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8bf2a26de29d6d0800000000000000
+      internalID: -2965287382281111305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_55
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1867
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548c8b4531de01200800000000000000
+      internalID: 148879454984783941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1862
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8155d135ab498c640800000000000000
+      internalID: 5100490105976345880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1857
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3fed7c0f5628b20800000000000000
+      internalID: 3135180375423120305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_58
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1862
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd10ba43c5b40b9a0800000000000000
+      internalID: -6219388226005958180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_59
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1857
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e41a6dfa5b700650800000000000000
+      internalID: 6197088717990663397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1852
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023fd8f813a0e4c20800000000000000
+      internalID: 3192500393830380320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1847
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e67dd55fe13351f0800000000000000
+      internalID: -1057446583494412569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_62
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1852
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7aaab9157e34510800000000000000
+      internalID: 1532322635926120401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_63
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1847
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4ee2c00bae90460800000000000000
+      internalID: 7208550720422733010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1842
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633b931492fb1e890800000000000000
+      internalID: -7430447726275742922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1837
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00156c6556874290800000000000000
+      internalID: -7906202919376711665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_66
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1842
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a83bc400d7088a20800000000000000
+      internalID: 3064708136440641703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_67
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1837
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa6badc741868580800000000000000
+      internalID: -8825224274392683778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1832
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf6b9cee3d96fed0800000000000000
+      internalID: -2380542459435585606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1827
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14355105e27201b0800000000000000
+      internalID: -5691860651147447267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_70
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1832
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc3e96b302993890800000000000000
+      internalID: -7477785161625617217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_71
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1827
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a7a3d18a5c35490800000000000000
+      internalID: -7758640407193683383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1822
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd406ba587353f910800000000000000
+      internalID: 1869930046671946973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1817
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a367b6aa710bd23e0800000000000000
+      internalID: -2076810237458024902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_74
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1822
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5b3ab9472261aa0800000000000000
+      internalID: -6190722753551419994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_75
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1817
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcee6377606de400800000000000000
+      internalID: 355045943066684637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1812
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24ac5399ad799550800000000000000
+      internalID: 6168099331935872045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1807
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0c136a0b88b3700800000000000000
+      internalID: 521160474175324394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_78
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1812
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd493b1292ff4f0a0800000000000000
+      internalID: -6848568581199522593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_79
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1807
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f6444863c943810800000000000000
+      internalID: 1744190713660469141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1802
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a418cf6381a5870f0800000000000000
+      internalID: -1119045447353335478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1797
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51886fb08ff894360800000000000000
+      internalID: 7154407778570110997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_82
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1802
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9196cb322ec36ea0800000000000000
+      internalID: -5880630041988656740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_83
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1797
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65250866694611730800000000000000
+      internalID: 3968063343817675350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ddd89981875a1d0800000000000000
+      internalID: -3340131501574595302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1787
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257f9f089d1a58de0800000000000000
+      internalID: -1331480159274272942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_86
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1792
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a732e33ad834c20800000000000000
+      internalID: 3189548693370141272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NicePng_marshmallow-png_9744780_87
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1787
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58eeca56376add8e0800000000000000
+      internalID: -1666993272499933563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones:
+    - name: bone_1
+      guid: 162a79419181f27459879d73a0ce59bc
+      position: {x: 943.1415, y: 1845.7711, z: 0}
+      rotation: {x: 0, y: 0, z: -0.6995456, w: 0.7145879}
+      length: 222.74643
+      parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 4278190335
+    - name: bone_2
+      guid: a7ad5e7d73b3d9d4d9b19d6080d2e94c
+      position: {x: 1765.2216, y: 1724.9467, z: 0}
+      rotation: {x: 0, y: 0, z: -0.9426678, w: 0.33373263}
+      length: 256.03897
+      parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 4278255615
+    - name: bone_3
+      guid: 8cd70b95ad25e064f9f9fb23c4fe9ebc
+      position: {x: 1822.0801, y: 988.1545, z: 0}
+      rotation: {x: 0, y: 0, z: 0.9999396, w: 0.010987733}
+      length: 215.64081
+      parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 4278255360
+    - name: bone_4
+      guid: 7adde3c4bd364ad49a784e83861190ee
+      position: {x: 1748.6378, y: 265.5769, z: 0}
+      rotation: {x: 0, y: 0, z: 0.94507104, w: 0.3268651}
+      length: 295.26523
+      parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 4294967040
+    - name: bone_5
+      guid: f06e374e02618744891eecf37f7becd4
+      position: {x: 1004.7382, y: 135.27603, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7042266, w: 0.7099753}
+      length: 291.4098
+      parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 4294901760
+    - name: bone_6
+      guid: a93813fb13af2b248bcd36dcb813a9e8
+      position: {x: 239.51675, y: 267.946, z: 0}
+      rotation: {x: 0, y: 0, z: 0.38495782, w: 0.9229342}
+      length: 340.07205
+      parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 4294902015
+    - name: bone_7
+      guid: 5b455f2f0079190459f86d27d01b565d
+      position: {x: 170.81265, y: 1021.32196, z: 0}
+      rotation: {x: 0, y: 0, z: 0.0037584975, w: 0.99999297}
+      length: 315.1001
+      parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 4278223103
+    - name: bone_8
+      guid: ce102a54b68bab546ad04129409ed3e5
+      position: {x: 218.1948, y: 1722.5775, z: 0}
+      rotation: {x: 0, y: 0, z: -0.29856762, w: 0.9543885}
+      length: 357.50757
+      parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 4278255488
+    - name: bone_9
+      guid: 058eaf23aeda5304f87fe3d481da0f6c
+      position: {x: 1007.10736, y: 867.33, z: 0}
+      rotation: {x: 0, y: 0, z: 0.70070857, w: 0.71344763}
+      length: 263.01358
+      parentId: -1
+      color:
+        serializedVersion: 2
+        rgba: 4286643968
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices:
+    - {x: 1047.992, y: 62.435}
+    - {x: 1234.223, y: 67.224}
+    - {x: 1395.925, y: 78}
+    - {x: 1515.9651, y: 96}
+    - {x: 1656.7, y: 129.469}
+    - {x: 1757.948, y: 165.19598}
+    - {x: 1822.103, y: 199.10498}
+    - {x: 1859.815, y: 235.38098}
+    - {x: 1877, y: 273.964}
+    - {x: 1889, y: 350.099}
+    - {x: 1894.942, y: 612.60596}
+    - {x: 1897.393, y: 869.148}
+    - {x: 1897.455, y: 1126.528}
+    - {x: 1895.679, y: 1383.083}
+    - {x: 1888.591, y: 1595.408}
+    - {x: 1871.557, y: 1691.883}
+    - {x: 1842.82, y: 1749.177}
+    - {x: 1793.111, y: 1798.888}
+    - {x: 1724.736, y: 1836}
+    - {x: 1643.703, y: 1858.536}
+    - {x: 1448.992, y: 1885}
+    - {x: 1190.404, y: 1899}
+    - {x: 935.104, y: 1900.507}
+    - {x: 681.01697, y: 1894}
+    - {x: 461.67294, y: 1875.671}
+    - {x: 310.883, y: 1848.94}
+    - {x: 244.98297, y: 1823.965}
+    - {x: 184, y: 1781.578}
+    - {x: 151.271, y: 1742.906}
+    - {x: 128, y: 1695.185}
+    - {x: 115.32897, y: 1640.327}
+    - {x: 107.38099, y: 1559.364}
+    - {x: 103.39899, y: 1419.652}
+    - {x: 100.70599, y: 1113.512}
+    - {x: 100.757996, y: 856.135}
+    - {x: 103.41699, y: 599.99304}
+    - {x: 107.349, y: 393.27197}
+    - {x: 113.458984, y: 310.544}
+    - {x: 125.42499, y: 260.511}
+    - {x: 140.44098, y: 231.64897}
+    - {x: 168.80798, y: 204.258}
+    - {x: 228.31897, y: 170.073}
+    - {x: 311.20898, y: 139.44098}
+    - {x: 424.399, y: 108.497986}
+    - {x: 545.947, y: 85.05499}
+    - {x: 703.904, y: 70.096985}
+    - {x: 953.929, y: 61.330994}
+    indices: 000000000b00000001000000160000002100000017000000170000002000000018000000170000002100000020000000180000001f0000001900000018000000200000001f000000190000001e0000001a000000190000001f0000001e0000001a0000001d0000001b0000001a0000001e0000001d0000001b0000001d0000001c000000220000002d00000023000000220000002e0000002d000000230000002b00000024000000230000002c0000002b000000230000002d0000002c000000240000002900000025000000240000002a00000029000000240000002b0000002a0000002500000028000000260000000f00000012000000110000002500000029000000280000000f00000011000000100000000e000000120000000f00000000000000220000000b000000000000002e00000022000000010000000a00000002000000010000000b0000000a000000020000000a00000003000000030000000a00000004000000040000000900000005000000040000000a000000090000000500000009000000060000000600000008000000070000000600000009000000080000000b000000160000000c0000000b00000021000000160000000b00000022000000210000000c000000150000000d0000000c00000016000000150000000d000000130000000e0000000d00000014000000130000000d00000015000000140000000e0000001300000012000000260000002800000027000000
+    edges:
+    - {x: 0, y: 1}
+    - {x: 0, y: 46}
+    - {x: 1, y: 2}
+    - {x: 2, y: 3}
+    - {x: 3, y: 4}
+    - {x: 4, y: 5}
+    - {x: 5, y: 6}
+    - {x: 6, y: 7}
+    - {x: 7, y: 8}
+    - {x: 8, y: 9}
+    - {x: 9, y: 10}
+    - {x: 10, y: 11}
+    - {x: 11, y: 12}
+    - {x: 12, y: 13}
+    - {x: 13, y: 14}
+    - {x: 14, y: 15}
+    - {x: 15, y: 16}
+    - {x: 16, y: 17}
+    - {x: 17, y: 18}
+    - {x: 18, y: 19}
+    - {x: 19, y: 20}
+    - {x: 20, y: 21}
+    - {x: 21, y: 22}
+    - {x: 22, y: 23}
+    - {x: 23, y: 24}
+    - {x: 24, y: 25}
+    - {x: 25, y: 26}
+    - {x: 26, y: 27}
+    - {x: 27, y: 28}
+    - {x: 28, y: 29}
+    - {x: 29, y: 30}
+    - {x: 30, y: 31}
+    - {x: 31, y: 32}
+    - {x: 32, y: 33}
+    - {x: 33, y: 34}
+    - {x: 34, y: 35}
+    - {x: 35, y: 36}
+    - {x: 36, y: 37}
+    - {x: 37, y: 38}
+    - {x: 38, y: 39}
+    - {x: 39, y: 40}
+    - {x: 40, y: 41}
+    - {x: 41, y: 42}
+    - {x: 42, y: 43}
+    - {x: 43, y: 44}
+    - {x: 44, y: 45}
+    - {x: 45, y: 46}
+    weights:
+    - 'weight[0]': 0.5636894
+      'weight[1]': 0.27765912
+      'weight[2]': 0.15865155
+      'weight[3]': 0
+      'boneIndex[0]': 5
+      'boneIndex[1]': 4
+      'boneIndex[2]': 3
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 3
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 0.9696813
+      'weight[1]': 0.019901173
+      'weight[2]': 0.010417491
+      'weight[3]': 0
+      'boneIndex[0]': 3
+      'boneIndex[1]': 8
+      'boneIndex[2]': 2
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 3
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 3
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 3
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 3
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 3
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 3
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 3
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 3
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 0.63127226
+      'weight[1]': 0.33044648
+      'weight[2]': 0.038281277
+      'weight[3]': 0
+      'boneIndex[0]': 8
+      'boneIndex[1]': 2
+      'boneIndex[2]': 3
+      'boneIndex[3]': 0
+    - 'weight[0]': 0.6735838
+      'weight[1]': 0.31299067
+      'weight[2]': 0.013425574
+      'weight[3]': 0
+      'boneIndex[0]': 2
+      'boneIndex[1]': 1
+      'boneIndex[2]': 5
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 1
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 1
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 1
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 1
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 1
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 0.99999994
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 1
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 1
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 0.97953653
+      'weight[1]': 0.020463552
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 1
+      'boneIndex[1]': 2
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 1
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 0.5579803
+      'weight[1]': 0.24354619
+      'weight[2]': 0.19847359
+      'weight[3]': 0
+      'boneIndex[0]': 7
+      'boneIndex[1]': 2
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 7
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 7
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 7
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 7
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 7
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 0.99999994
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 7
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 7
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 7
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 7
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 7
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 0.43738502
+      'weight[1]': 0.3882064
+      'weight[2]': 0.17440863
+      'weight[3]': 0
+      'boneIndex[0]': 7
+      'boneIndex[1]': 6
+      'boneIndex[2]': 8
+      'boneIndex[3]': 0
+    - 'weight[0]': 0.8506834
+      'weight[1]': 0.14931664
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 5
+      'boneIndex[1]': 8
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 5
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 5
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 5
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 5
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 5
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 5
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 5
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 5
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 5
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 5
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 5
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    - 'weight[0]': 1
+      'weight[1]': 0
+      'weight[2]': 0
+      'weight[3]': 0
+      'boneIndex[0]': 5
+      'boneIndex[1]': 0
+      'boneIndex[2]': 0
+      'boneIndex[3]': 0
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NicePng_marshmallow-png_9744780_0: -7224236327054070845
+      NicePng_marshmallow-png_9744780_1: 2077184626131208110
+      NicePng_marshmallow-png_9744780_10: 8002741198681256773
+      NicePng_marshmallow-png_9744780_11: 2781538388652214022
+      NicePng_marshmallow-png_9744780_12: -7400960316803207186
+      NicePng_marshmallow-png_9744780_13: 3929885342574628034
+      NicePng_marshmallow-png_9744780_14: -5667339350881959107
+      NicePng_marshmallow-png_9744780_15: 1465296833360164377
+      NicePng_marshmallow-png_9744780_16: 5008395477981147387
+      NicePng_marshmallow-png_9744780_17: -5721962231506690314
+      NicePng_marshmallow-png_9744780_18: -3985586163887904756
+      NicePng_marshmallow-png_9744780_19: -2343704736962796227
+      NicePng_marshmallow-png_9744780_2: 8613825232887840381
+      NicePng_marshmallow-png_9744780_20: -1048531682987093994
+      NicePng_marshmallow-png_9744780_21: -6339113423713057608
+      NicePng_marshmallow-png_9744780_22: -3465900913294434813
+      NicePng_marshmallow-png_9744780_23: 7527198686817318900
+      NicePng_marshmallow-png_9744780_24: -1463500584582657604
+      NicePng_marshmallow-png_9744780_25: 1985547362952602605
+      NicePng_marshmallow-png_9744780_26: 3688969771625581795
+      NicePng_marshmallow-png_9744780_27: 8655076208962162720
+      NicePng_marshmallow-png_9744780_28: -7453520738022851192
+      NicePng_marshmallow-png_9744780_29: -6035533207425120346
+      NicePng_marshmallow-png_9744780_3: 106743952293420805
+      NicePng_marshmallow-png_9744780_30: 6599786406980144576
+      NicePng_marshmallow-png_9744780_31: 4154314722500869836
+      NicePng_marshmallow-png_9744780_32: -721540962340169480
+      NicePng_marshmallow-png_9744780_33: 6443580421080801122
+      NicePng_marshmallow-png_9744780_34: 5448734020546976189
+      NicePng_marshmallow-png_9744780_35: -5335466162005106829
+      NicePng_marshmallow-png_9744780_36: 3911083023505817851
+      NicePng_marshmallow-png_9744780_37: -2210801354518147585
+      NicePng_marshmallow-png_9744780_38: -4503535828276047414
+      NicePng_marshmallow-png_9744780_39: -2860971610187763563
+      NicePng_marshmallow-png_9744780_4: -4650176147490024598
+      NicePng_marshmallow-png_9744780_40: 7200884085633272300
+      NicePng_marshmallow-png_9744780_41: 6859666190988423045
+      NicePng_marshmallow-png_9744780_42: 3520469122681457033
+      NicePng_marshmallow-png_9744780_43: -4185182455427313819
+      NicePng_marshmallow-png_9744780_44: 3538320700143427752
+      NicePng_marshmallow-png_9744780_45: 5855380260571600560
+      NicePng_marshmallow-png_9744780_46: -256871307045812797
+      NicePng_marshmallow-png_9744780_47: 3061139487242776159
+      NicePng_marshmallow-png_9744780_48: -55592261016213687
+      NicePng_marshmallow-png_9744780_49: 6997095394120976815
+      NicePng_marshmallow-png_9744780_5: 2767176575243260525
+      NicePng_marshmallow-png_9744780_50: 8030970380044963926
+      NicePng_marshmallow-png_9744780_51: 3368383377124916305
+      NicePng_marshmallow-png_9744780_52: -6991410720687778594
+      NicePng_marshmallow-png_9744780_53: 3250490853021045385
+      NicePng_marshmallow-png_9744780_54: -2965287382281111305
+      NicePng_marshmallow-png_9744780_55: 148879454984783941
+      NicePng_marshmallow-png_9744780_56: 5100490105976345880
+      NicePng_marshmallow-png_9744780_57: 3135180375423120305
+      NicePng_marshmallow-png_9744780_58: -6219388226005958180
+      NicePng_marshmallow-png_9744780_59: 6197088717990663397
+      NicePng_marshmallow-png_9744780_6: 5344283423224102421
+      NicePng_marshmallow-png_9744780_60: 3192500393830380320
+      NicePng_marshmallow-png_9744780_61: -1057446583494412569
+      NicePng_marshmallow-png_9744780_62: 1532322635926120401
+      NicePng_marshmallow-png_9744780_63: 7208550720422733010
+      NicePng_marshmallow-png_9744780_64: -7430447726275742922
+      NicePng_marshmallow-png_9744780_65: -7906202919376711665
+      NicePng_marshmallow-png_9744780_66: 3064708136440641703
+      NicePng_marshmallow-png_9744780_67: -8825224274392683778
+      NicePng_marshmallow-png_9744780_68: -2380542459435585606
+      NicePng_marshmallow-png_9744780_69: -5691860651147447267
+      NicePng_marshmallow-png_9744780_7: 7207987811159856445
+      NicePng_marshmallow-png_9744780_70: -7477785161625617217
+      NicePng_marshmallow-png_9744780_71: -7758640407193683383
+      NicePng_marshmallow-png_9744780_72: 1869930046671946973
+      NicePng_marshmallow-png_9744780_73: -2076810237458024902
+      NicePng_marshmallow-png_9744780_74: -6190722753551419994
+      NicePng_marshmallow-png_9744780_75: 355045943066684637
+      NicePng_marshmallow-png_9744780_76: 6168099331935872045
+      NicePng_marshmallow-png_9744780_77: 521160474175324394
+      NicePng_marshmallow-png_9744780_78: -6848568581199522593
+      NicePng_marshmallow-png_9744780_79: 1744190713660469141
+      NicePng_marshmallow-png_9744780_8: -2197831784260714568
+      NicePng_marshmallow-png_9744780_80: -1119045447353335478
+      NicePng_marshmallow-png_9744780_81: 7154407778570110997
+      NicePng_marshmallow-png_9744780_82: -5880630041988656740
+      NicePng_marshmallow-png_9744780_83: 3968063343817675350
+      NicePng_marshmallow-png_9744780_84: -3340131501574595302
+      NicePng_marshmallow-png_9744780_85: -1331480159274272942
+      NicePng_marshmallow-png_9744780_86: 3189548693370141272
+      NicePng_marshmallow-png_9744780_87: -1666993272499933563
+      NicePng_marshmallow-png_9744780_9: -3055058731226033441
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
